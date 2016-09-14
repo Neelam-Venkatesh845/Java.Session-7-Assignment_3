@@ -10,16 +10,6 @@ public class Assignment3 {
 			System.out.println("NullPointerException..");
 		}
 
-		/*
-		 * Assignment3 nullExample = null; nullExample.test();
-		 * 
-		 * 
-		 * }
-		 * 
-		 * private void test() {
-		 * 
-		 * }
-		 */
 
 	}
 
